@@ -28,7 +28,7 @@ livres = {
     4: {
         "titre": "Communication numérique : Volume 1",
         "auteur": "Safwan El Assad et Dominique Barba",
-        "categorie": "",
+        "categorie": "Communication numérique",
         "disponible": True,
         "lien": "https://dokumen.pub/communications-numeriques-volume-1-fondements-et-techniques-1784056693-9781784056698.html"
     },
